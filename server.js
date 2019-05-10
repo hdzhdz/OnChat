@@ -9,7 +9,7 @@ const path = require('path');
 const PORT = process.env.PORT || 8080;
 
 // Assign the value of your mongoDB connection string to this constant
-const dbConnectString = "mongodb+srv://zchopra:workshop@devworkshop-hun0p.azure.mongodb.net/test?retryWrites=true";
+const dbConnectString = "mongodb+srv://hdzhdz:<Scorpions9090>@cluster0-w9dbu.azure.mongodb.net/test?retryWrites=true";
 
 // Updating mongoose's promise version
 mongoose.Promise = global.Promise;
